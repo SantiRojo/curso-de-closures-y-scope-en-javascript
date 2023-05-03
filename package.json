@@ -1,0 +1,20 @@
+{
+  "name": "curso-de-closures-y-scope-en-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiRojo/curso-de-closures-y-scope-en-javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiRojo/curso-de-closures-y-scope-en-javascript/issues"
+  },
+  "homepage": "https://github.com/SantiRojo/curso-de-closures-y-scope-en-javascript#readme"
+}
